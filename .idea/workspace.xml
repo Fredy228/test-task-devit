@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f39fec5c-74e4-4300-9e7f-ebce6dbb17a8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/task-3-js/dist/subtask-3.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/task-3-js/dist/subtask-3.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-3-js/src/subtask-2.ts" beforeDir="false" afterPath="$PROJECT_DIR$/task-3-js/src/subtask-2.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-3-js/src/subtask-3.ts" beforeDir="false" afterPath="$PROJECT_DIR$/task-3-js/src/subtask-3.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-3-js/src/subtask-4.ts" beforeDir="false" afterPath="$PROJECT_DIR$/task-3-js/src/subtask-4.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task-3-js/src/subtask-5.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task-3-js/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/task-3-js/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +78,7 @@
       <workItem from="1693986350321" duration="13676000" />
       <workItem from="1694072259954" duration="5240000" />
       <workItem from="1694077515669" duration="477000" />
-      <workItem from="1694077995947" duration="1229000" />
+      <workItem from="1694077995947" duration="3141000" />
     </task>
     <servers />
   </component>
