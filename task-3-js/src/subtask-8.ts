@@ -27,5 +27,6 @@ function combos(num: number): number[][] {
   return result;
 }
 
+// Тест функции
 console.log(combos(3));
 console.log(combos(10));
