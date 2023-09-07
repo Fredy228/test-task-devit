@@ -5,16 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f39fec5c-74e4-4300-9e7f-ebce6dbb17a8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/task-3-js/dist/subtask-7.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task-3-js/dist/subtask-7.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task-3-js/src/subtask-7.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/prettier.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/prettier.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task-3-js/dist/subtask-8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task-3-js/dist/subtask-8.js.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-3-js/dist/subtask-5.js" beforeDir="false" afterPath="$PROJECT_DIR$/task-3-js/dist/subtask-5.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-3-js/dist/subtask-5.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/task-3-js/dist/subtask-5.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-3-js/dist/subtask-6.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/task-3-js/dist/subtask-6.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-3-js/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/task-3-js/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-3-js/src/subtask-5.ts" beforeDir="false" afterPath="$PROJECT_DIR$/task-3-js/src/subtask-5.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task-3-js/dist/subtask-7.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/task-3-js/dist/subtask-7.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task-3-js/src/subtask-7.ts" beforeDir="false" afterPath="$PROJECT_DIR$/task-3-js/src/subtask-7.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task-3-js/src/subtask-8.ts" beforeDir="false" afterPath="$PROJECT_DIR$/task-3-js/src/subtask-8.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +80,7 @@
       <workItem from="1693986350321" duration="13676000" />
       <workItem from="1694072259954" duration="5240000" />
       <workItem from="1694077515669" duration="477000" />
-      <workItem from="1694077995947" duration="8457000" />
+      <workItem from="1694077995947" duration="18013000" />
     </task>
     <servers />
   </component>

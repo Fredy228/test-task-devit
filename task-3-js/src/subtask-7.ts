@@ -44,5 +44,6 @@ const obj = {
   },
 };
 
+//Тест функции
 const flattenedMap = mapObject(obj);
 console.log(flattenedMap);
