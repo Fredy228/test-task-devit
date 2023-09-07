@@ -1,0 +1,39 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100%;
+  margin: 0;
+  overflow: hidden;
+  background-color: #f0f0f0;
+}
+
+.square {
+  width: 100px;
+  height: 100px;
+  animation: moveRotateChangeColor 5s linear infinite;
+  border-radius: 10px;
+}
+
+@keyframes moveRotateChangeColor {
+  0% {
+    background-color: red;
+    rotate: 0deg;
+  }
+
+  33% {
+    rotate: 120deg;
+    background-color: orange;
+  }
+
+  66% {
+    rotate: 240deg;
+    background-color: green;
+  }
+
+  100% {
+    rotate: 359deg;
+    background-color: red;
+  }
+}

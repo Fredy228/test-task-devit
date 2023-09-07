@@ -5,12 +5,15 @@
 body {
   padding: 0;
   margin: 0;
+  color: white;
 }
 
 .container {
   max-width: 1240px;
   padding: 0 20px;
   margin: 0 auto;
+
+  display: grid;
 }
 
 .span {
@@ -24,33 +27,31 @@ body {
 }
 
 .header {
-  width: 100%;
+  background-color: crimson;
   height: 100px;
-  border: 2px solid green;
 }
 
 .nav {
-  width: 100%;
+  background-color: darkblue;
   height: 100px;
-  border: 2px solid blue;
 }
 
 .main {
-  display: flex;
+  display: grid;
+  grid-template-columns: 1fr 250px;
   height: 400px;
 }
 
 .section {
   flex: 1;
-  border: 2px solid darkcyan;
+  background-color: darkcyan;
 }
 
 .aside {
-  width: 250px;
-  border: 2px solid rebeccapurple;
+  background-color: darkgoldenrod;
 }
 
 .footer {
+  background-color: darkmagenta;
   height: 100px;
-  border: 2px solid red;
 }

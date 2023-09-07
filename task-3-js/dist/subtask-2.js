@@ -11,4 +11,5 @@ console.log(iterator.next());
 console.log(iterator.next());
 console.log(iterator.next());
 console.log(iterator.next());
+console.log("iterator", iterator);
 //# sourceMappingURL=subtask-2.js.map
