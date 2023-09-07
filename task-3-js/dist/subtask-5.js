@@ -4,7 +4,7 @@ function objectToArray(obj) {
     for (const key in obj) {
         if (obj.hasOwnProperty(key)) {
             const value = obj[key];
-            if (typeof value === "object") {
+            if (typeof value === "object" && !Array.isArray(obj[key])) {
                 result.push([key, objectToArray(value)]);
             }
             else {
@@ -15,13 +15,13 @@ function objectToArray(obj) {
     return result;
 }
 const inputObject = {
-    name: 'developer',
+    name: "developer",
     age: 5,
     skills: {
         html: 4,
         css: 5,
-        js: 5
-    }
+        js: 5,
+    },
 };
 const resultArray = objectToArray(inputObject);
 console.log(resultArray);
