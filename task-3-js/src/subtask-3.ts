@@ -46,6 +46,7 @@ const functionsAndParams: Array<TFuncAndParam> = [
   [f3, [3, 4]], // Вызовет f3 с параметрами 3 и 4 через задержку и добавит [3, 4] в результаты.
 ];
 
+// Тест функции
 bulkRun(functionsAndParams).then((result: any[]) => {
   // 6. После выполнения всех функций, результаты выводятся в консоль.
   console.log(result);
